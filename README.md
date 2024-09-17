@@ -1,7 +1,3 @@
-Certainly! Here's a draft for a `README.md` file based on your drug classification project:
-
----
-
 # Drug Classification Using Machine Learning
 
 This project uses machine learning techniques to classify drugs based on patient features like Age, Sex, Blood Pressure (BP), Cholesterol levels, and Na-to-K ratio. The objective is to predict the appropriate drug class for each patient.
