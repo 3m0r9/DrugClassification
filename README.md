@@ -93,6 +93,13 @@ pip install -r requirements.txt
 - **Cross-Validation**: Applying cross-validation to better evaluate model performance on unseen data.
 - **Deep Learning Models**: Exploring the potential of neural networks for drug classification tasks.
 
+## Let's connect
+
+- **GitHub** - [3m0r9](https://github.com/3m0r9)
+- **linkedIn** - [Imran Abu Libda](https://www.linkedin.com/in/imran-abu-libda/)
+- **Email** - [imranabulibda@gmail.com](mailto:imranabulibda@gmail.com)
+- **Medium** - [Imran Abu Libda](https://medium.com/@imranabulibda_23845)
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
